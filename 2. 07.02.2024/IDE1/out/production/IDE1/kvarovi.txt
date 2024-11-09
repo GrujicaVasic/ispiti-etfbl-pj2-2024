@@ -1,0 +1,42 @@
+id=23, snaga=64, visina=0, tip=ISTRAZIVACKI, autonomija=false
+Komponente: 
+Motor: id=122, godina=2020, proizvodjac=Apple, snaga=83
+Baterija: id=123, godina=2009, proizvodjac=CAT, kapacitet=21
+Senzor: id=124, godina=2009, proizvodjac=Apple, vrsta=OPTICKI, raspon=89
+
+id=9, snaga=67, visina=195, tip=MONTAZNI, autonomija=false
+Komponente: 
+Motor: id=108, godina=2015, proizvodjac=Acer, snaga=14
+Baterija: id=109, godina=2024, proizvodjac=Apple, kapacitet=32
+Senzor: id=110, godina=2017, proizvodjac=Acer, vrsta=OPTICKI, raspon=68
+
+id=10, snaga=87, visina=51, tip=MONTAZNI, autonomija=true
+Komponente: 
+Motor: id=109, godina=2019, proizvodjac=Sony, snaga=43
+Baterija: id=110, godina=2019, proizvodjac=CAT, kapacitet=50
+Senzor: id=111, godina=2014, proizvodjac=Apple, vrsta=ULTRAZVUCNI, raspon=38
+
+id=24, snaga=61, visina=186, tip=ISTRAZIVACKI, autonomija=true
+Komponente: 
+Motor: id=123, godina=2024, proizvodjac=Acer, snaga=10
+Baterija: id=124, godina=2001, proizvodjac=Apple, kapacitet=24
+Senzor: id=125, godina=2009, proizvodjac=Acer, vrsta=ULTRAZVUCNI, raspon=1
+
+id=22, snaga=43, visina=117, tip=ISTRAZIVACKI, autonomija=true
+Komponente: 
+Motor: id=121, godina=2006, proizvodjac=Apple, snaga=95
+Baterija: id=122, godina=2008, proizvodjac=CAT, kapacitet=74
+Senzor: id=123, godina=2001, proizvodjac=Acer, vrsta=ULTRAZVUCNI, raspon=51
+
+id=26, snaga=55, visina=158, tip=ISTRAZIVACKI, autonomija=false
+Komponente: 
+Motor: id=125, godina=2017, proizvodjac=CAT, snaga=50
+Baterija: id=126, godina=2003, proizvodjac=Acer, kapacitet=11
+Senzor: id=127, godina=2020, proizvodjac=Sony, vrsta=ULTRAZVUCNI, raspon=72
+
+id=18, snaga=71, visina=126, tip=CISTACKI, autonomija=true
+Komponente: 
+Motor: id=117, godina=2009, proizvodjac=Acer, snaga=30
+Baterija: id=118, godina=2004, proizvodjac=Apple, kapacitet=71
+Senzor: id=119, godina=2005, proizvodjac=Apple, vrsta=ULTRAZVUCNI, raspon=35
+

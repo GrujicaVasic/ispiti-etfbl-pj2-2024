@@ -1,0 +1,6 @@
+id=18, snaga=18, visina=172, tip=CISTACKI, autonomija=true
+Komponente: 
+Motor: id=117, godina=2024, proizvodjac=CAT, snaga=16
+Baterija: id=118, godina=2014, proizvodjac=Sony, kapacitet=15
+Senzor: id=119, godina=2022, proizvodjac=Apple, vrsta=ULTRAZVUCNI, raspon=0
+
