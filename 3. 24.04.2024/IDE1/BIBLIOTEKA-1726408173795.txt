@@ -1,0 +1,3 @@
+Datum 2024-09-15
+Vrijeme trajanja simulacije 20 [s]
+Procenat podignutih knjiga 13.11%
